@@ -1,4 +1,4 @@
-## Juan Esteban Ramirez / Jramirezzz
+## 😎 Juan Esteban Ramirez / Jramirezzz
 ### Soy un estudiante de diseño interactivo apasionado por el desarrollo web, mas especifico el desarrollo Front-End
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Jramirezzz&theme=dark&hide_border=false)<br/>
