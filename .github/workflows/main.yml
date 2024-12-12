@@ -44,7 +44,7 @@ jobs:
       - name: Checkout Repository
         uses: actions/checkout@v3
 
-      # 2. Instalar herramientas para estadísticas
+      # 2. Instalar herramientas para generar estadísticas
       - name: Instalar generador de estadísticas
         run: |
           npm install -g github-readme-stats
@@ -54,7 +54,20 @@ jobs:
         run: |
           github-readme-stats --user Jramirezzz --output README.md
 
-      # 4. Subir cambios al repositorio
+      # 4. Concatenar URL de la imagen para ajustarse a los 80 caracteres
+      - name: Concatenar URL de imagen
+        run: |
+          # Se divide la URL en dos partes
+          url_part1="https://github-readme-streak-stats.herokuapp.com/?user=Jramirezzz&theme=dark&hide_border=false"
+          url_part2=""
+          
+          # Concatenamos la URL
+          full_url="$url_part1$url_part2"
+          
+          # Reemplazamos la URL en el README.md
+          sed -i "s|https://github-readme-streak-stats.herokuapp.com/?user=Jramirezzz&theme=dark&hide_border=false|$full_url|g" README.md
+
+      # 5. Subir cambios al repositorio
       - name: Subir cambios al repositorio
         run: |
           git config --global user.name "GitHub Actions"
