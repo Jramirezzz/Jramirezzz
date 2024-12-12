@@ -1,10 +1,12 @@
 # 😎 Juan Esteban Ramirez / Jramirezzz
 
-### Soy un estudiante de diseño interactivo apasionado por el desarrollo web, más específico el desarrollo Front-End
+## Soy un estudiante de diseño interactivo apasionado por el desarrollo web, más específico el desarrollo Front-End
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=Jramirezzz&theme=dark&hide_border=false "GitHub Streak Stats of Jramirezzz")
+![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=Jramirezzz&theme=dark&hide_border=false 
+"GitHub Streak Stats of Jramirezzz"
+)
 
 ## 🔝 Top Contributed Repo
 
@@ -33,4 +35,3 @@
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)  
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)  
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-
