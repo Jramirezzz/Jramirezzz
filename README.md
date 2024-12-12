@@ -4,10 +4,7 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](
-https://github-readme-streak-stats.herokuapp.com/?user=Jramirezzz&theme=dark&
-hideborder=false)
-
+![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=Jramirezzz&theme=dark&hideborder=false)
 
 ## 🔝 Top Contributed Repo
 
