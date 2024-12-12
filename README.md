@@ -1,6 +1,6 @@
 # 😎 Juan Esteban Ramirez / Jramirezzz
 
-## Soy un estudiante de diseño interactivo apasionado por el desarrollo web, 
+## Soy un estudiante de diseño interactivo apasionado por el desarrollo web
 
 ## más específico el desarrollo Front-End
 
