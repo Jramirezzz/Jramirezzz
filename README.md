@@ -4,8 +4,7 @@ Soy un estudiante de diseño interactivo apasionado por el desarrollo web, más 
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=Jramirezzz&theme=dark
-&hide_border=false "GitHub Streak Stats of Jramirezzz")
+![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=Jramirezzz&theme=dark&hide_border=false "GitHub Streak Stats of Jramirezzz")
 
 
 
