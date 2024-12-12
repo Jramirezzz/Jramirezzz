@@ -4,11 +4,11 @@ Soy un estudiante de diseño interactivo apasionado por el desarrollo web, más 
 
 ## 📊 GitHub Stats
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=Jramirezzz&theme=dark&hide_border=false)
+![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=Jramirezzz&theme=dark&hide_border=false)
 
 ## 🔝 Top Contributed Repo
 
-![](https://github-contributor-stats.vercel.app/api?username=Jramirezzz&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=Jramirezzz&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
 ---
 
