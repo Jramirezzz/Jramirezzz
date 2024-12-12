@@ -2,7 +2,6 @@
 
 ## Soy un estudiante de diseño interactivo apasionado por el desarrollo web, más específico el desarrollo Front-End
 
-
 ## 🔝 Top Contributed Repo
 
 ![Top Repo](https://github-contributor-stats.vercel.app/api?username=Jramirezzz&limit=5&theme=tokyonight&combine_all_yearly_contributions=true "Top contributed repos of Jramirezzz")
