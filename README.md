@@ -5,14 +5,17 @@ Soy un estudiante de diseño interactivo apasionado por el desarrollo web, más 
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=Jramirezzz&theme=dark&hide_border=false 
 "GitHub Streak Stats of Jramirezzz")
+
 ## 🔝 Top Contributed Repo
 ![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=Jramirezzz&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 ---
 [![](https://visitcount.itsvg.in/api?id=Jramirezzz&icon=2&color=0)](https://visitcount.itsvg.in)
+
 ## 🌐 Socials
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/juanesramirez5)  
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/juanestebanramirezp)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/juan-esteban-ramírez-perdomo-55b7382a5)
+
 ## 💻 Tech Stack
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)  
